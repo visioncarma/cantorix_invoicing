@@ -1,0 +1,97 @@
+.navbar{
+	display:none;
+}
+.footer{
+	display:none;
+}
+.main-content{
+	margin-left:0px;
+}
+.sidebar{
+	display:none;
+}
+.breadcrumbs{
+	display:none;
+}
+.page-header{
+	display: none;
+}
+.filterrow{
+	display:none;
+}
+.footer{
+	display:none;
+}
+title{
+	display: none;
+}
+.table-header{
+	display:none;
+}
+.textright{
+	text-align: right !important;
+}
+.tableexpense{
+	display:none;
+}
+.table.roles-table tr td{
+	 vertical-align: top;
+}
+.expensemargin{
+	display:none;
+}
+
+#btn-scroll-up{
+	display:none;
+}
+
+
+.table.roles-table{
+	border:1px solid #fff;
+}
+.table.roles-table tr td{
+	padding:0px !important;
+}
+
+
+.rowwidth120px{
+	max-width: 12.5%;
+    width: 12.5%;
+}
+.initialbalanceamt{
+	width: 14% !important; 
+	padding-right:0px !important;
+}
+.red{
+	color:#d2322d;
+}
+.due {
+    color:#bd6564;
+}
+.wordwrap{
+	 white-space: pre-wrap;      
+    white-space: -moz-pre-wrap;  
+    white-space: -pre-wrap;      
+    white-space: -o-pre-wrap;    
+    word-wrap: break-word;      
+ }
+.printpadding{
+	padding:0px !important;
+} 
+.allamount{
+	padding-right:0px;
+}
+.rowwidth120px.printblnce{
+	padding:0px;
+}
+.printshow{
+	display: none;
+}
+.printadminwidth{
+	width:50%;
+	padding:0 12px !important;
+}
+
+
+	
+

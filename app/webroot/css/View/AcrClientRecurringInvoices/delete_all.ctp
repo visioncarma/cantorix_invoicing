@@ -1,0 +1,1 @@
+<?php echo '<div class="alert alert-block alert-success">Selected recurrence are removed.You cannot retrieve these recurrences again</div>';?>

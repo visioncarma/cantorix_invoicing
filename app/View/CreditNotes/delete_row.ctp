@@ -1,0 +1,1 @@
+<?php echo $this -> Form -> hidden('AcrClientInvoice.delete.'.$rowID, array('value'=>$creditProdID));?>

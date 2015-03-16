@@ -1,0 +1,1 @@
+<?php echo $this->Form->textarea('AcpExpense.inventory_description',array('class'=>'tabletextarea form-control','rows'=>'2','value'=>$itemDesc['InvInventory']['description']));?>

@@ -1,0 +1,662 @@
+.table_fixed_new
+{
+	table-layout:fixed;
+}
+
+@media(max-width:1024px) {
+
+input[disabled] {
+   
+    color: #000 !important;
+}
+
+.inlineeditselectpick .btn-group.bootstrap-select
+{
+
+	 width:80px !important;
+	
+}
+.paddingmobile5
+{
+	padding-left:10px;
+}
+div#flashMessage div:first-child {
+  padding-left: 90px;
+  padding-right:22px;
+}
+
+/** User rol page **/
+ .taxlist .fixedheightt{
+   	height:auto;
+   }
+   
+.table_fixed_new .width300 {
+width: 120px;
+}
+.table_fixed_new .width150
+{
+	width:60px;
+}
+.table_fixed_new .margin-left-15 {
+margin-left: 3px;
+}	
+
+
+.table_fixed_new td,.table_fixed_new th
+{
+	 white-space: inherit !important;
+	 font-size:12px !important;
+}
+	
+/** User rol page **/
+
+/*** Responsive tables **/
+
+.modal-footerleftalign
+{
+	text-align:left;
+}
+.sidebar
+{
+	
+}
+.tablemobile_overflowhidd
+{
+	overflow-x:hidden;
+}
+#footer {
+	text-align:center;
+}
+
+.dashboarddd .nopaddingleft
+{
+	padding-left:12px !important;
+}
+	
+.dashboarddd .nopaddingright
+{
+	padding-right:12px !important;
+}
+
+.col-lg-9.col-xs-12.paddingleftrightzero.width-80.marginleftprofile.col-sm-4
+{
+	width:63% !important;
+}
+
+.col-lg-9.col-xs-12.paddingleftrightzero.width-80.marginleftprofile
+{
+		width:63% !important;
+}
+.marginbottomm
+{
+	margin-bottom:10px;
+	margin-top:10px;
+}
+input.form-control.browse-button.inputfile
+{
+	/*background:none !important;
+	border:none !important;*/
+	padding-left:15px;
+	padding-top:5px;
+}
+.table-responsive
+{
+	overflow-y: scroll;
+}
+.mobileonlyselect {
+width:129px;
+}
+.table-responsive.table-responsivenoscroll .row
+{
+	margin-left:0px;
+	margin-right:0px;
+}	
+.managecustomeradd {
+margin-left: 0.5%;
+width: 19%;
+}
+.page-header h1.managecustomer {
+    width: 54%;
+}
+.managecustomerimport {
+    width: 26.5%;
+}
+
+.margin-twenty-zero .form-group
+{
+margin-bottom:10px;	
+}
+
+.filterdivmob
+{
+margin-bottom:0px;
+padding:10px;
+padding-bottom:0px;
+}
+
+.addformbutton
+{
+float:left;
+padding-left:0px;
+}
+
+.addformbutton{
+	padding-left:0px;
+	float:left;
+}
+
+.addformbutton .paddingleft58
+{
+	padding-left:0px;
+}
+.editformbutton
+{
+	padding-left:0px;
+	float:left;
+}
+.editformbutton .paddingleft236
+{
+	padding-left:0px;
+}
+
+
+}
+@media(max-width:767px) {
+	
+	.role-form-group label.error {
+    padding-left: 0px;
+}
+.tablehidemobilee table
+{
+	display:none;
+}
+
+
+
+.iconpopupok{
+left: 14%;	
+}	
+.paddingtop5smallview{
+	padding-top:5px;
+}
+.paddingright5{
+ 	padding-right:0%;
+ }	
+.profileitem_wrapper
+{
+border-bottom:none;
+padding-bottom: 8px;
+    padding-top: 5px;
+}	
+	
+.edit-userprofile-width
+{
+	width:100% !important;
+}
+
+.profilename{
+	margin-top:15px;
+}
+
+.row.marginleftrightzero.paddingbottom20
+{
+	padding-bottom:0px !important;
+}
+.marginleftprofile
+{
+	margin-left:0px;
+}
+.bgwhitee
+{
+	background-color: #fff;
+}
+
+.manage_customer_view_left label
+{
+	width:48%;
+	word-wrap: break-word;
+}
+.manage_customer_view_right{
+	width:100%;
+	float: left;
+}
+.widgetpadding{
+	padding-left:0px;
+}
+.manage_customer_view_left
+{
+	width:100%;
+}
+.nopaddingmobile
+{
+	padding-left:0 !important;
+	padding-right:0 !important;
+}	
+	
+/* pagination css */
+.paginationmaindiv .col-sm-6{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.paginationmaindiv{
+		margin-top:10px;
+	}
+	.paginationmaindiv .col-sm-6{
+		float:left;
+		margin-top:10px;
+		   clear: both;
+	}
+	.paginationmaindiv .pagination
+	{
+		margin-left:0px;
+	}
+
+.margintop38
+{
+	margin-top:38px;
+}
+
+.table-small-view input[type="text"]{
+	width:145px !important;
+	
+}
+
+.table-small-view input[type="email"]{
+	width:145px !important;
+	
+}
+
+.table-small-view input[type="password"]{
+	width:145px !important;
+	
+}
+.table-small-view 
+{
+	
+}
+
+/* pagination css */
+	
+	
+
+.widthfulmobcance
+{
+	width:180px;
+}	
+ .payment-container{
+    width: 98%}
+
+.modal-dialog {
+    width: 280px ;
+}
+
+.payment-container .col-xs-5,.payment-container .col-xs-7
+{
+width:100%;
+}
+
+/*** added by sri for responsive issue fix**/
+.filterdivmob .margin-bottom-zero
+{
+margin-bottom:10px;
+}
+
+.filterdivmob .margin-bottom-zero input
+{
+
+}
+.filterdivmob
+{
+margin-bottom:0px;
+padding:10px;
+padding-bottom:0px;
+}
+
+.contactdetails h5
+{
+width:100%;
+}
+
+.contactdetails
+{
+width:100%;
+}
+
+
+.managecustomerimport,.managecustomeradd
+{
+width:98%;
+}
+
+.managecustomeradd
+{
+margin-top:10px;
+}
+
+.page-header h1.managecustomer {
+    clear: both;
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+
+
+.margin-twenty-zero .form-group {
+    margin-bottom: 10px;
+}
+
+.onlyxls
+{
+	float: right;
+    width: 119px !important;
+}
+
+.onlyexcel label
+{
+text-align:left;
+}
+
+
+.importrow
+{
+margin-bottom:20px;
+}
+.contactdetails.additionalinfo h5
+{
+	width: 100%;
+}
+
+.paddingleft58
+{
+	padding:0px;
+}
+
+.mobileonlyselect {
+	width:169px;
+}
+.clearlefttrespon
+{
+	clear:left;
+}
+
+.usermanagement
+{
+	margin-bottom:15px !important;
+}
+
+/*** subscription page */
+.freeplan
+{
+	margin-bottom:50px;
+}
+
+.standarplannn
+{
+	margin-bottom:20px;
+}
+
+
+/*** FOR TABLE RESPOSNIVE */
+
+	.table{
+		/* display:none;*/
+	 }
+	 .table-small-view{
+	     display:block;
+		 width:100%;
+		 float:left;
+		 clear:both;
+     }
+	 .borderfull{
+		 border:1px solid #e1e1e1;
+		 border-bottom:none;
+     }
+	 .borderfullrevert{
+		  border:1px solid #e1e1e1;
+		 border-top:none;
+	 }
+	 .borderbottom{
+	     border-bottom:1px solid #e1e1e1 !important;
+	 }
+
+
+/*** table scroll should always be here dont copy any code below it **/
+
+			
+		.rt { width: 100%;border-collapse: collapse; border-spacing: 0; }  	
+		.rt th,	.rt td { } 
+		.rt th {  }   	
+       
+	    .rt1 { display: block; position: relative; width: 100%; } 	
+		.rt1  thead { display: block; float: left; } 		
+		.rt1  tbody { display: block; width: auto; position: relative; overflow-x: auto; white-space: nowrap; }
+ 		.rt1  thead tr { display: block; } 	
+		.rt1  th { display: block; } 		
+		.rt1  tbody tr { display: inline-block; vertical-align: top; } 		
+		.rt1  td { display: block; min-height: 1.25em; }  		
+		#rt2 { display: block; position: relative; width: 100%; } 		
+		#rt2 thead { display: block; float: left; } 		
+		#rt2 tbody { display: -webkit-box; overflow-x: auto; } 		
+		#rt2 th, 		#rt2 tr, 		#rt2 td { display: block; }  		
+		/* sort out borders */  		
+		.rt th { border-bottom: 0; } 		
+		.rt td { border-left: 0; border-right: 0; border-bottom: 0; } 		
+		.rt tbody tr { border-right: 1px solid #babcbf; } 		
+		.rt th:last-child, 		
+		.rt td:last-child { border-bottom: 1px solid #babcbf; }  
+.scrollautoo
+{
+	overflow:auto !important;
+}
+
+
+
+/*** table scroll should always be here dont copy any code below it **/
+
+
+}
+@media(max-width:750px) {
+	.modules_list li {
+		width: 15%;
+	}
+}
+@media(max-width:700px) {
+	.modules_list li {
+		width: 18%;
+	}
+}
+@media(max-width:600px) {
+	
+	.inlineeditselectpick .btn-group.bootstrap-select
+{
+
+	 width:145px !important;
+	
+}
+
+	.listusercustom th,.listusercustom td{
+		/*font-size:10px;*/
+		white-space:inherit !important;
+		
+	}
+	
+.table_fixed_new .width300 {
+    width: 80px;
+	}
+	.table_fixed_new .width150
+	{
+		width:35px;
+	}
+	.table_fixed_new .margin-left-15 {
+    margin-left: 3px;
+	}	
+	
+	
+	.table_fixed_new td,.table_fixed_new th
+	{
+		 white-space: inherit !important;
+		 font-size:10px !important;
+	}
+} 	
+
+@media(max-width:479px) {
+	.dashboard-box .width60.left{
+		text-align:center !important;
+	}
+.sendme input{
+	
+	font-size:11px !important;
+}	
+.marginneedtop
+{
+	margin-top:10px;
+}
+
+.onlyxls{
+    width: 64% !important;
+     float: right;
+}
+.captchaa .input {
+    float: left;
+    width: 40%;
+}
+	
+}
+
+@media(max-width:360px) {
+	.excelimportbutton
+	{
+		
+	}
+	.right-inner-addon i
+	{
+		right: 7%;
+	}
+}
+@media(max-width:320px) {
+	
+	div#flashMessage div:first-child {
+    padding-left: 60px;
+    padding-right: 22px;
+}
+
+	.taxscreen .col-xs-12
+	{
+		padding-left:7px;
+		padding-right:7px;
+	}
+	.extrapaddinglefttaxonly
+	{
+		margin-left:3px;
+	}
+	.btn-sm.btn-success.addbutton.paddingnewadd{
+	   padding: 7px 11px !important;
+	   margin-bottom:10px; 
+    }
+	.right-inner-addon i
+	{
+		right: 5%;
+	}
+	
+	.captchaa .input
+	{
+		width:40%;
+	}
+	
+	.width-30mobill
+	{
+		width:34% !important;
+	}
+
+	.width-65mobill
+	{
+		width:56% !important;
+	}
+	.rememberme,.forgotpassword{
+		font-size:12px;
+	}
+	
+	.table_fixed_new .width300 {
+    width: 80px;
+	}
+	.table_fixed_new .width150
+	{
+		width:35px;
+	}
+	.table_fixed_new .margin-left-15 {
+    margin-left: 3px;
+	}	
+	
+	
+	.table_fixed_new td,.table_fixed_new th
+	{
+		 white-space: inherit !important;
+		 font-size:10px !important;
+	}
+	
+	.listusercustom .width400{
+		width:60px !important;
+	}
+	.listusercustom .width500{
+		width:100px !important;
+	}
+	.listusercustom .width100{
+		width:60px !important;
+	}
+	.listusercustom td span
+	{
+	
+		}
+		
+  
+}
+
+
+ 
+ 
+ 
+ 
+@media(max-width:1325px) {
+.clientstatistics{
+	background: none repeat scroll 0 0 #f5f5f5;
+    border-top: 1px solid #e2e2e2;
+	border-bottom: 1px solid #fff;
+    width: 100%;
+ }
+ .clientstatistics li {
+    padding: 0 2.5%;
+ }
+ .snapshot-list li span.font25{
+	   font-size:22px;
+ }
+
+ }
+ @media(max-width:1024px) {
+.snapshot-list li span {
+   font-size:12px;
+ }
+.snapshot-list li span.font25 {
+	font-size: 20px;
+ }
+ 
+ }
+ @media(max-width:991px) {
+.snapshot-list li span {
+   font-size:13px;
+ }
+.snapshot-list li span.font25 {
+	font-size: 25px;
+ }
+
+ }
+  @media(max-width:900px) {
+.snapshot-list li span {
+   font-size:13px;
+ }
+.snapshot-list li span.font25 {
+	font-size: 22px;
+ }
+
+ }

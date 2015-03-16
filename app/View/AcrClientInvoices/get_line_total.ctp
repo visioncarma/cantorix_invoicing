@@ -1,0 +1,2 @@
+<?php echo $this->Form->input('AcrClientInvoice.line_total.'.$rowId,array('div'=>false,'label'=>false,'class'=>'col-xs-10 col-sm-5 form-control amountt textright black','type'=>'text','disabled'=>'disabled','value'=>round($inventoryRate,2)))?>
+<?php echo $this->Form->hidden('AcrClientInvoice.line_total_hidden.'.$rowId,array('value'=>round($inventoryRate,2)))?>

@@ -1,0 +1,260 @@
+.sbHolder {
+	background-color: #cccccc;
+	border: solid 1px #a6a6a6;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	height: 20px;
+	position: relative;
+	width: 210px;
+	background-image:url(../images/customselectBg.png);
+	background-repeat:repeat-x;
+	background-position:left top;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	color:#717171;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.sbSelector {
+	display: block;
+	height: 20px;
+	left: 0;
+	line-height: 20px;
+	outline: none;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 10px;
+	top: 0;
+	width: 190px;
+}
+.sbSelector:link, .sbSelector:visited, .sbSelector:hover {
+	color: #8d8d8d;
+	outline: none;
+	text-decoration: none;
+}
+.sbToggle {
+	background:url(../images/select-icons.png) 0 -122px no-repeat;
+	display: block;
+	height: 20px;
+	outline: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 20px;
+}
+.sbToggle:hover {
+	background:url(../images/select-icons.png) 0 -173px no-repeat;
+}
+.sbToggleOpen {
+	background:url(../images/select-icons.png) 0 -22px no-repeat;
+}
+.sbToggleOpen:hover {
+	background:url(../images/select-icons.png) 0 -72px no-repeat;
+}
+.sbHolderDisabled {
+	background-color: #3C3C3C;
+	border: solid 1px #515151;
+}
+.sbHolderDisabled .sbHolder {
+}
+.sbHolderDisabled .sbToggle {
+}
+.sbOptions {
+	background-color: #FFFFFF;
+	border: solid 1px #666666;
+	list-style: none;
+	left: -1px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	width: 210px;
+	z-index: 1;
+	overflow-y: auto;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	
+}
+.sbOptions li {
+	padding: 0 7px;
+}
+.sbOptions a {
+	border-bottom: dotted 1px #515151;
+	display: block;
+	outline: none;
+	padding: 7px 0 7px 3px;
+	color:#333333;
+}
+.sbOptions li:last-child a {
+	border-bottom: none;
+}
+.sbOptions a:link, .sbOptions a:visited {
+	color: #8d8d8d;
+	text-decoration: none;
+}
+.sbOptions a:hover {
+	color: #EBB52D;
+}
+.sbOptions li.last a {
+	border-bottom: none;
+}
+.sbOptions .sbDisabled {
+	border-bottom: dotted 1px #515151;
+	color: #999;
+	display: block;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbGroup {
+	border-bottom: dotted 1px #515151;
+	color: #EBB52D;
+	display: block;
+	font-weight: bold;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbSub {
+	padding-left: 17px;
+}
+<!--
+mycss--> .Task_desc_recurringsection {
+	float:left;
+	width:500px;
+	height:200px;
+	background-color:#960;
+}
+/*-----------------changesfromdefault------------------------*/
+
+.filter_top .sbHolder, .filter_top .sbOptions {
+	width: 110px;
+}
+.filter_top .sbSelector {
+	width: 90px;
+}
+.filter_top .sbHolder {
+	float:left;
+	margin-right:14px;
+}
+.completedtd .sbHolder, .completedtd .sbOptions {
+	width: 90px;
+}
+.completedtd .sbSelector {
+	width: 70px;
+}
+.completedtdExp .sbHolder, .completedtdExp .sbOptions {
+	width: 60px;
+}
+.completedtdExp .sbSelector {
+	width: 40px;
+}
+.resuts_page .sbHolder, .resuts_page .sbOptions {
+	width: 60px;
+}
+.resuts_page .sbSelector {
+	width: 40px;
+}
+/*-----------------changesfromdefault------------------------*/
+
+.leave_typeBox .sbHolder {
+	width:168px;
+}
+.leave_typeBox .sbOptions {
+	width:168px;
+}
+.leave_typeBox .date_wrapper {
+	width:168px;
+}
+.leave_typeBox .datepicker {
+	width:141px;
+}
+.carry_leaves .sbHolder {
+	width:100px;
+}
+.carry_leaves .sbOptions {
+	width:100px;
+}
+.carry_leaves .date_wrapper {
+	width:100px;
+}
+.approve_role .sbHolder {
+	width:130px;
+}
+.approve_role .sbOptions {
+	width:130px;
+}
+.approve_role .date_wrapper {
+	width:130px;
+}
+.usermgnt .sbHolder {
+	width:160px;
+}
+.usermgnt .sbOptions {
+	width:160px;
+}
+.usermgnt .date_wrapper {
+	width:160px;
+}
+.Add_role .sbHolder {
+	margin-left: 10px;
+	margin-top: 12px;
+	width: 140px;
+	background-color:#ffffff;
+	background-image:none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.role_mgnt .sbHolder {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.Add_role .sbOptions {
+	width:140px;
+}
+.Add_role .date_wrapper {
+	width:140px;
+}
+.Add_role .sbOptions {
+	width:140px;
+}
+.Add_role .date_wrapper {
+	width:140px;
+}
+.Add_role .sbSelector {
+	width:auto;
+}
+.role_mgnt .sbHolder {
+	width:168px;
+}
+.role_mgnt .sbOptions {
+	width:168px;
+}
+.role_mgnt .sbHolder {
+	background-color: #CCCCCC;
+	background-image: url("../images/customselectBg.png");
+}
+
+
+/* ADDED BY JUNAID */
+.sbOptions{
+	margin-top:2px;
+	background: -moz-linear-gradient(top, #fefefe, #f3f3e9);
+	background: -webkit-linear-gradient(top, #fefefe, #f3f3e9);
+	background: -o-linear-gradient(top, #fefefe, #f3f3e9);
+	background: linear-gradient(top, #fefefe, #f3f3e9);
+	border: solid 1px #d3cfce;
+	box-shadow:0px 2px 5px #888888;
+}
+.sbOptions li {
+	border-bottom: solid 1px #ffffff;
+}
+.sbOptions a {
+	border-bottom: 0px;
+}
+.sbHolder{
+	background: -moz-linear-gradient(top, #f2f2f2, #dcdcdc);
+	background: -webkit-linear-gradient(top, #f2f2f2, #dcdcdc);
+	background: -o-linear-gradient(top, #f2f2f2, #dcdcdc);
+	background: linear-gradient(top, #f2f2f2, #dcdcdc);
+}

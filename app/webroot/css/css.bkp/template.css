@@ -1,0 +1,609 @@
+div.headerbg
+{
+	background:#ffffff;
+	min-height:90px;
+}
+
+div.headerbg .container > div a img
+{
+margin-top:15px;
+}
+
+#footer {
+    background-color: #ebebeb;
+    bottom: 0;    
+    position: static;
+    width: 100%;
+	float:left;
+}
+
+.footer img
+{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+.paddingtb
+{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.pricing-span3 {
+    float: left !important;
+    margin: 0;
+   /* max-width: 150px !important;
+    min-width: 110px !important;*/
+    width:33.33%;
+	border:1px solid #dbdbdb;;
+	
+	background:#fff;
+	
+}
+.noborderright
+{
+	border-right:none;
+}
+
+
+.noborderleft
+{
+	border-left:none;
+}
+
+.widget-boxhovercs {
+    box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.15);
+    transform: scale(1.14);
+    z-index: 11;
+}
+
+.paddingtb40
+{
+	padding-top:20px;
+	padding-bottom:40px;
+}
+
+.pricing-span3 .pricing-box-small:hover
+{
+	transform:none !important;
+	box-shadow:none !important;
+	
+}
+
+.pricingboxx {
+    background: none repeat scroll 0 0 #fff;   
+    float: left;
+  
+}
+
+.pricingboxx_head {
+    background: #6eb56e;   
+    clear: both;
+    float: left;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    text-align: center;
+    width: 100%;
+}
+
+.pricingboxx_headinner
+{
+color:#fff;
+font-size:18px;
+}
+
+.common_priceboxrow {
+    border-bottom: 1px solid #dbdbdb;
+    float: left;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.greenn
+{
+	color:#6eb56e;
+}
+.pricee
+{
+	font-size:30px;
+}
+.common_priceboxrow_signup {
+    clear: both;
+    float: left;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    text-align: center;
+    width: 100%;
+}
+
+.pricing_signupp {
+    color: #FFFFFF;
+    float: left;
+    text-align: center;
+    /*text-shadow: 2px 2px 2px #294E60;*/
+    width: 100%;
+}
+
+.pricing_signuppinner a {
+    color: #FFFFFF;   
+    font-size: 0.938em;
+    line-height: 31px;
+    text-align: center;
+    /*text-shadow: 2px 2px 2px #294E60;*/
+}
+
+
+.pricing_signuppinner a {
+    background: none repeat scroll 0 0 #6EB56E;
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 auto;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    width: 60%;
+}
+
+.pricingboxx2 .pricingboxx_head {
+    background:#2b83b6;
+}
+
+.pricingboxx3 .pricingboxx_head{
+    background:#ef984a;
+}
+
+.activeprice {
+    bottom: 29px;
+    padding-bottom: 22px;
+    position: relative;
+}
+
+.activeprice .pricingboxx_head {
+    padding-bottom:7.9%;
+    padding-top: 8%;
+}
+
+.heading_main_subscription
+{
+	float:left;
+	clear:both;
+	margin-bottom:42px;
+	width:100%;
+}
+.heading_main_subscription h3
+{
+	margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+	font-size:25px;
+}
+.pricing-span-bodypaddingneed
+{
+	padding-left:12px;
+	padding-right:12px;
+}
+.uppercase
+{
+	text-transform:uppercase;
+}
+
+.textdecor,.textdecor:hover
+{
+	text-decoration:none;
+}
+
+.modalinside
+{
+	padding:20px;
+}
+
+
+.pointer
+{
+cursor:pointer;
+}
+
+
+label.error {
+    clear: both;
+    color: #DF4040;
+    float: left;
+    font-size: 12px;
+    font-weight: normal;
+    padding-left: 1px;
+    padding-top: 3px;
+}
+
+
+/*** added by srividya nwly for Making button to input with gly icon **/
+
+.right-inner-addon {
+    position: relative;
+}
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+.right-inner-addon i {
+	color: #FFFFFF;
+    padding: 10px 12px;
+    pointer-events: none;
+    position: absolute;
+    right: 20%;
+}
+
+.font16
+{
+font-size:16px;
+}
+
+
+.login-container-message h2, .login-container-message .font16
+{
+color:#666666;
+}
+
+.errorlabel
+{
+border:1px solid #FF0000 !important;
+}
+/*** added by srividya nwly for Making button to input with gly icon **/
+
+/*Added by Balraj ,signup page,21-05-14*/
+.full_container{
+	width:100%;
+	height:auto;
+	float:left;
+	clear:both;
+	border-top:2px solid #fff;
+	margin-bottom:50px;
+	 padding-top: 20px;
+}
+.nav_header_border{
+  border-bottom:1px solid #EBEBEB;
+}
+.signup-box{
+	margin: 0 auto;
+   /* width: 33%;*/
+	-webkit-box-shadow: 0px 0px 3px 0px rgba(129, 131, 136, 0.75) !important;
+	-moz-box-shadow:    0px 0px 3px 0px rgba(129, 131, 136, 0.75) !important;
+	box-shadow:         0px 0px 3px 0px rgba(129, 131, 136, 0.75) !important;
+	background:none repeat scroll 0 0 #FFFFFF !important;
+}
+.signup-box .widget-main {
+    padding: 8% 12%;
+}
+.btn-success, .btn-success:focus {
+    background-color: #2C83B8  !important;
+    border-color: #2C83B8 ;
+}
+.btn-success:hover, .open .btn-success.dropdown-toggle {
+    background-color: #2C83B8  !important;
+    border-color: #6FB3E0;
+}
+.btn-sm {
+	font-weight:bold;
+}
+.signupblue{
+	color: #2C83B8;
+}
+.bold{
+	font-weight:bold;
+}
+h4.bigger.signupblue{
+	padding-bottom: 13px;
+	border-bottom: 1px solid #E5E5E5;
+	font-size:22px;
+}
+.signup-box label{
+	margin-bottom: 18px;
+}
+.signup-box label span.lbl{
+    color:#858585;
+}
+.signup-box .widget-main p{
+    color:#6E6E6E;
+}
+.signup-box .lbl > a {
+    text-decoration: underline;
+}
+.signup-box .widget-main p.typecode{
+    font-size:14px;
+}
+.rememberforgot{
+	float: left;
+    width: 50%;
+}
+.loginwrapper{
+	float: left;
+    padding-top: 5%;
+    width: 50%;
+}
+.forgotpassword{
+	 text-decoration: underline;
+}
+.loginwrapper.sendme{
+    padding-top: 0%;
+}
+.backtologin{
+	color:#428BCA;
+}
+.signup-box .error {
+    margin-bottom: 0px;
+}
+#subscriberFormTc
+{
+	left:44px;
+	top:355px;
+}
+/************ balraj ***/
+/****captcha signup page **/
+.captchaa{
+    float: left;
+    width: 100%;
+    margin-bottom: 18px;
+}
+.captchaa img {
+    float: left;
+    max-width: 100%;
+}
+.captchaa a{
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 8px;
+    width: 8%;
+}
+.captchaa .input{
+    float: left;
+    width: 51%;
+}
+.captchaa .input input {
+    padding: 7px 4px;
+    width: 100%;
+}
+.captchaa #img-captcha{
+	height: 35px;
+    margin-top: 0;
+}
+ 
+
+.noborder
+{
+border:medium none !important;
+}
+.errorflashmessage{
+    clear: both;
+    color: #DF4040;
+    float: left;
+    font-size: 12px;
+    width: 100%;
+}
+
+
+.successflashmessage{
+    clear: both;
+    color: #349506;
+    float: left;
+    font-size: 12px;
+    width: 100%;
+}
+/**payment****/
+.payment-container{
+	width:640px;
+}
+.payment-container .widget-main {
+    float: left;
+    padding: 6%;
+    width: 100%;
+}
+.payment-container .signup-box{
+	width: 100%;
+	float:left;
+}
+.payment-container .widget-body{
+	float: left;
+    width: 100%;
+}
+.payment-heading{
+	margin:0px;
+}
+.payment-box {
+    float: left;
+    width: 100%;
+}
+.price-details {
+    border: 1px solid #D5D5D5;
+    float: left;
+    margin-top: 20px;
+    width: 100%;
+	margin-bottom:30px;
+}
+.price-row {
+    border-bottom: 1px solid #D5D5D5;
+    float: left;
+    width: 100%;
+}
+.price-name {
+    border-right: 1px solid #D5D5D5;
+    float: left;
+    padding-bottom: 6px;
+    padding-left: 3%;
+    padding-top: 6px;
+    width: 60%;
+}
+.price-name p{
+	text-align:left;
+	margin:0px;
+	font-size:14px;
+}
+.price-value {
+    float: left;
+    padding-bottom: 6px;
+    padding-right: 8%;
+    padding-top: 6px;
+    width: 40%;
+}
+.price-value p{
+	text-align:right;
+	margin:0px;
+	font-size:14px;
+}
+.border-bottom-none{
+	border-bottom:none;
+}
+.billing-information{
+	float:left;
+	width:100%;
+	margin-top: 20px;
+	margin-bottom:30px;
+}
+.input-row{
+	float:left;
+	width:100%;
+	margin-bottom:25px;
+}
+.normal-btn{
+	 padding: 2px 25px;
+	 color:#ffffff;
+	 font-weight:bold;
+}
+.hint {
+    float: left;
+    width: 5%;
+	position:relative;
+}
+.expiry {
+    float: left;
+    margin-right: 1%;
+    width: 94%;
+}
+.hint .card-show {
+    background: none repeat scroll 0 0 #ffffff;
+    display: none;
+    position: absolute;
+    right:-33px;
+    top: 41px;
+    width: auto;
+	 box-shadow: 0 0 2px #999999;
+	 border: 1px solid #FFFFFF;
+	 -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	z-index:9999;
+	 padding: 0 10px 15px;
+}
+.expiry .form-control{
+	float: left;
+    margin-right:0%;
+    width: 100%;
+	height:34px;
+}
+.expiry input.form-control{
+	margin-right:0px;
+}
+.margin-bottom-zero{
+	margin-bottom:0px;
+}
+.hint > img {
+    cursor: pointer;
+    float: left;
+}
+.hint-tip {
+    left: 107px;
+    position: relative;
+    top: -16px;
+}
+.inner-expiry{
+	float:left;
+	width:32%;
+	margin-right:2%;
+}
+.cvv-div{
+	margin-right:0px;
+}
+/**end of payment**/
+.right-inner-addon input.sendme {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.pricing-span3.noborderright .pricing_signuppinner a{
+	background: none repeat scroll 0 0 #6EB56E;
+}
+.pricing-span3 .pricing_signuppinner a{
+	background: none repeat scroll 0 0 #2B83B6;
+}
+.pricing-span3.noborderleft .pricing_signuppinner a{
+	background: none repeat scroll 0 0 #EF984A;
+}
+
+/*** added newly for subscriptionpayment **/
+
+.lighter
+{
+font-weight:lighter;
+}
+
+.nopadding
+{
+padding-left:0px;
+padding-right:0px; 
+}
+
+.fontbig15
+{
+font-size:15px;
+}
+
+.width100per
+{
+width:100%;
+}
+
+.floatleft
+{
+float:left;
+}
+
+.paymentthree
+{
+float:left;
+width:100%;
+padding-bottom:30px;
+}
+
+.paddingbottom10
+{
+padding-bottom:10px;
+
+}
+
+.justify
+{
+text-align:justify;
+}
+.margin-top-zero{
+	margin-top:0px !important;
+}
+.margin-bottom-20{
+	margin-bottom:20px !important; 
+}
+
+
+@media(max-width:767px) {
+.pricing-span3
+{
+width:100%;
+}
+
+}
+
+
+@media(max-width:600px) {
+.payment-container .col-xs-5,.payment-container .col-xs-7
+{
+width:100%;
+}
+}
+ 

@@ -1,0 +1,1 @@
+<?php echo 'Method cannot be accessed directly through url!';?>

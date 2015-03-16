@@ -1,0 +1,245 @@
+[14-Feb-2015 15:34:51 America/Detroit] PHP Fatal error:  Class 'Inflector' not found in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 35
+[15-Feb-2015 02:12:57 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ']' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[15-Feb-2015 07:09:16 America/Detroit] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 26
+[16-Feb-2015 03:58:03 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 47
+[16-Feb-2015 04:07:32 America/Detroit] PHP Parse error:  syntax error, unexpected '(' (T_IF) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[16-Feb-2015 04:16:24 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 22
+[16-Feb-2015 04:19:18 America/Detroit] PHP Parse error:  syntax error, unexpected identifier (T_STRING) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 3
+[16-Feb-2015 04:19:36 America/Detroit] PHP Parse error:  syntax error, unexpected identifier (T_STRING) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[16-Feb-2015 04:19:36 America/Detroit] PHP Parse error:  syntax error, unexpected identifier (T_STRING) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 3
+[16-Feb-2015 04:19:49 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[16-Feb-2015 04:19:56 America/Detroit] PHP Parse error:  syntax error, unexpected '/**' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 33
+[16-Feb-2015 04:20:02 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 99
+[16-Feb-2015 04:20:02 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in Unknown on line 0
+[16-Feb-2015 04:20:15 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 241
+[16-Feb-2015 04:20:15 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in Unknown on line 0
+[16-Feb-2015 04:20:24 America/Detroit] PHP Parse error:  syntax error, unexpected 'kePHP(tm) Project' (T_STRING) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 9
+[16-Feb-2015 04:20:35 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 185
+[16-Feb-2015 05:35:31 America/Detroit] PHP Parse error:  syntax error, unexpected identifier (T_STRING) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 102
+[16-Feb-2015 05:36:52 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 05:36:52 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 05:36:52 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 184
+[16-Feb-2015 05:36:52 America/Detroit] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting '{' in Unknown on line 0
+[16-Feb-2015 05:37:40 America/Detroit] PHP Parse error:  syntax error, unexpected '('' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 565
+[16-Feb-2015 05:40:43 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/App.php on line 0
+[16-Feb-2015 05:44:51 America/Detroit] PHP Parse error:  syntax error, unexpected 't' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 0
+[16-Feb-2015 05:45:04 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 05:45:04 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 05:45:04 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 05:45:04 America/Detroit] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 292
+[16-Feb-2015 05:45:04 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in Unknown on line 0
+[16-Feb-2015 06:08:45 America/Detroit] PHP Parse error:  syntax error, unexpected && (T_BOOLEAN_AND) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 80
+[16-Feb-2015 06:12:06 America/Detroit] PHP Parse error:  syntax error, unexpected 'defined' (T_STRING), expecting ',' or ';' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 74
+[16-Feb-2015 06:12:17 America/Detroit] PHP Parse error:  syntax error, unexpected identifier (T_STRING) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 3
+[16-Feb-2015 06:23:42 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in IF) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 37
+[16-Feb-2015 06:24:26 America/Detroit] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 805306368 bytes) in /home/cantorix/public_html/invoicing/lib/Cake/Cache/Cache.php on line 180
+[16-Feb-2015 06:24:49 America/Detroit] PHP Parse error:  syntax error, unexpected '(', expecting '(' in Unknown on line 0
+[16-Feb-2015 06:53:56 America/Detroit] PHP Parse error:  syntax error, unexpected ')' (T_IF), expecting '(' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 41
+[16-Feb-2015 06:56:21 America/Detroit] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[16-Feb-2015 06:56:21 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in Unknown on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant SECOND already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant MINUTE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant HOUR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant DAY already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant WEEK already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant MONTH already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Notice:  Constant YEAR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 06:57:04 America/Detroit] PHP Fatal error:  Class declarations may not be nested in /home/cantorix/public_html/invoicing/lib/Cake/Core/App.php on line 64
+[16-Feb-2015 06:57:04 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in Unknown on line 0
+[16-Feb-2015 06:59:02 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 06:59:02 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 06:59:02 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 07:44:02 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 07:44:02 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 07:44:02 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 07:44:14 America/Detroit] PHP Warning:  Unterminated comment starting line 0 in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 565
+[16-Feb-2015 08:47:08 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 115
+[16-Feb-2015 08:58:45 America/Detroit] PHP Parse error:  syntax error, unexpected 'arentId' (T_STRING) in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 380
+[16-Feb-2015 08:59:30 America/Detroit] PHP Parse error:  syntax error, unexpected '('ROOT' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 47
+[16-Feb-2015 09:00:24 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 21
+[16-Feb-2015 09:00:24 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 47
+[16-Feb-2015 09:00:24 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 59
+[16-Feb-2015 09:00:24 America/Detroit] PHP Parse error:  syntax error, unexpected 'App' (T_STRING), expecting '(' in /home/cantorix/public_html/invoicing/lib/Cake/Error/ErrorHandler.php on line 21
+[16-Feb-2015 09:09:32 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 259
+[16-Feb-2015 09:09:58 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Hash.php on line 0
+[16-Feb-2015 09:09:58 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Hash.php on line 0
+[16-Feb-2015 09:09:58 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Hash.php on line 0
+[16-Feb-2015 09:10:20 America/Detroit] PHP Warning:  Unterminated comment starting line 24 in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[16-Feb-2015 09:10:20 America/Detroit] PHP Parse error:  syntax error, unexpected '', expecting function (T_FUNCTION) in Unknown on line 0
+[16-Feb-2015 09:20:27 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 166
+[16-Feb-2015 09:20:43 America/Detroit] PHP Notice:  Undefined index: function in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Debugger.php on line 308
+[16-Feb-2015 09:20:43 America/Detroit] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Debugger.php on line 323
+[16-Feb-2015 09:23:40 America/Detroit] PHP Warning:  include(Cake/bootstrap.php): failed to open stream: No such file or directory in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 149
+[16-Feb-2015 09:23:40 America/Detroit] PHP Warning:  include(): Failed opening 'Cake/bootstrap.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 156
+[16-Feb-2015 09:23:40 America/Detroit] PHP Fatal error:  CakePHP core could not be found. Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php. It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 0
+[16-Feb-2015 09:27:15 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 44
+[16-Feb-2015 09:29:01 America/Detroit] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 162
+[16-Feb-2015 09:38:42 America/Detroit] PHP Parse error:  syntax error, unexpected '.' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 7
+[16-Feb-2015 09:41:56 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 15
+[16-Feb-2015 09:42:43 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cantorix/public_html/invoicing/lib/Cake/Core/App.php on line 823
+[16-Feb-2015 09:42:43 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in Unknown on line 0
+[16-Feb-2015 09:42:50 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 422
+[16-Feb-2015 09:42:50 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in Unknown on line 0
+[16-Feb-2015 09:46:31 America/Detroit] PHP Warning:  Unterminated comment starting line 1 in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 1
+[16-Feb-2015 09:46:31 America/Detroit] PHP Parse error:  syntax error, unexpected '[', expecting function (T_FUNCTION) in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Hash.php on line 2
+[16-Feb-2015 09:46:47 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 71
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 21
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 47
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 59
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant SECOND already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 24
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant MINUTE already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 25
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant HOUR already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 26
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant DAY already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 27
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant WEEK already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 28
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant MONTH already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 29
+[16-Feb-2015 09:46:53 America/Detroit] PHP Notice:  Constant YEAR already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 30
+[16-Feb-2015 09:46:59 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 27
+[16-Feb-2015 09:47:07 America/Detroit] PHP Parse error:  syntax error, unexpected ',', expecting '(' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 32
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant SECOND already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant MINUTE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant HOUR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant DAY already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant WEEK already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant MONTH already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Notice:  Constant YEAR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:47:34 America/Detroit] PHP Fatal error:  Class declarations may not be nested in /home/cantorix/public_html/invoicing/lib/Cake/Core/App.php on line 64
+[16-Feb-2015 09:52:21 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant SECOND already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant MINUTE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant HOUR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant DAY already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant WEEK already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant MONTH already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[16-Feb-2015 09:53:53 America/Detroit] PHP Notice:  Constant YEAR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[[6-Feb-2015 09:53:53 America/Dettoit] syntax error, unexsyntax error, unexpected ',', expecting variable (T_VARIABLE) or '$' in /home/cantorix/public_html/invoicing/lib/Cake/Core/App.php on line 641
+[16-Feb-2015 09:54:04 America/Detroit] PHP Parse error:  syntax error, unexpected '&' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 09:59:43 America/Detroit] PHP Parse error:  syntax error, unexpected ')' (T_CONSTANT_ENCAPSED_STRING) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 23
+[16-Feb-2015 09:59:54 America/Detroit] PHP Parse error:  syntax error, unexpected '* Index' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 23
+[16-Feb-2015 10:00:10 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 168
+[16-Feb-2015 10:00:10 America/Detroit] PHP Parse error:  syntax error, unexpected end of file in Unknown on line 0
+[16-Feb-2015 10:00:18 America/Detroit] PHP Parse error:  syntax error, unexpected '(' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[16-Feb-2015 10:00:18 America/Detroit] PHP Parse error:  syntax error, unexpected '_' in Unknown on line 0
+[16-Feb-2015 10:00:32 America/Detroit] PHP Fatal error:  Class 'Inflector' not found in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 1
+[16-Feb-2015 10:03:42 America/Detroit] PHP Warning:  Unterminated comment starting line 46 in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 46
+[16-Feb-2015 10:07:06 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Cache/Engine/FileEngine.php on line 0
+[16-Feb-2015 10:07:06 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Cache/Engine/FileEngine.php on line 0
+[16-Feb-2015 10:07:06 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Cache/Engine/FileEngine.php on line 0
+[16-Feb-2015 10:07:49 America/Detroit] PHP Fatal error:  Cannot use [] for reading in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 92
+[16-Feb-2015 10:08:45 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 10:08:45 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 10:08:45 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[16-Feb-2015 10:08:53 America/Detroit] PHP Fatal error:  Class 'Configure' not found in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 19
+[17-Feb-2015 01:45:16 America/Detroit] PHP Fatal error:  CakePHP core could not be found. Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php. It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 2
+[17-Feb-2015 01:48:23 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 26
+[17-Feb-2015 01:49:17 America/Detroit] PHP Parse error:  syntax error, unexpected identifier (T_STRING) in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 21
+[17-Feb-2015 01:49:46 America/Detroit] PHP Parse error:  syntax error, unexpected '		$legacyPaths = array();' in /home/cantorix/public_html/invoicing/lib/Cake/Core/App.php on line 10
+[17-Feb-2015 02:00:57 America/Detroit] PHP Fatal error:  Access to undeclared static property: App::$_Collection in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Debugger.php on line 168
+[17-Feb-2015 02:01:21 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[17-Feb-2015 02:01:21 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[17-Feb-2015 02:01:21 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[17-Feb-2015 02:01:21 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 82
+[17-Feb-2015 02:02:53 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 81
+[17-Feb-2015 02:03:10 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 8
+[17-Feb-2015 02:05:51 America/Detroit] PHP Warning:  Unterminated comment starting line 1 in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 1
+[17-Feb-2015 02:05:51 America/Detroit] PHP Parse error:  syntax error, unexpected ',' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 4
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 21
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 47
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 59
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant SECOND already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 24
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant MINUTE already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 25
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant HOUR already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 26
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant DAY already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 27
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant WEEK already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 28
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant MONTH already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 29
+[17-Feb-2015 02:06:14 America/Detroit] PHP Notice:  Constant YEAR already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 30
+[17-Feb-2015 02:06:14 America/Detroit] PHP Fatal error:  Class declarations may not be nested in /home/cantorix/public_html/invoicing/lib/Cake/Core/App.php on line 64
+[17-Feb-2015 02:06:14 America/Detroit] PHP Parse error:  syntax error, unexpected ' self::_mapped($className, $pl' in Unknown on line 0
+[17-Feb-2015 02:07:52 America/Detroit] PHP Parse error:  syntax error, unexpected '' in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 6
+[17-Feb-2015 02:08:39 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[17-Feb-2015 02:08:45 America/Detroit] PHP Fatal error:  Class 'I18n' not found in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 1
+[17-Feb-2015 02:08:53 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 21
+[17-Feb-2015 02:08:53 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 47
+[17-Feb-2015 02:08:53 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 59
+[17-Feb-2015 02:18:12 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting '(' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 189
+[17-Feb-2015 02:28:54 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 136
+[17-Feb-2015 02:29:06 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[17-Feb-2015 02:29:06 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[17-Feb-2015 02:29:06 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 0
+[17-Feb-2015 02:29:06 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 411
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant SECOND already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant MINUTE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant HOUR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant DAY already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant WEEK already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant MONTH already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Notice:  Constant YEAR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:29:59 America/Detroit] PHP Fatal error:  Cannot redeclare class App in /home/cantorix/public_html/invoicing/lib/Cake/Error/exceptions.php on line 0
+[17-Feb-2015 02:30:13 America/Detroit] PHP Parse error:  syntax error, unexpected ''mb_stripos'', expecting ')' in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 187
+[17-Feb-2015 02:30:52 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Cache/Cache.php on line 0
+[17-Feb-2015 02:30:52 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Cache/Cache.php on line 0
+[17-Feb-2015 02:30:53 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Hash.php on line 0
+[17-Feb-2015 02:30:53 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Hash.php on line 0
+[17-Feb-2015 02:30:53 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Utility/Hash.php on line 0
+[17-Feb-2015 02:30:53 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/cantorix/public_html/invoicing/lib/Cake/basics.php on line 468
+[17-Feb-2015 02:31:00 America/Detroit] PHP Parse error:  syntax error, unexpected ']' (T_STRING) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 80
+[17-Feb-2015 02:32:10 America/Detroit] PHP Parse error:  syntax error, unexpected '/' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[17-Feb-2015 02:32:10 America/Detroit] PHP Warning:  Unterminated comment starting line 24 in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[17-Feb-2015 02:32:10 America/Detroit] PHP Parse error:  syntax error, unexpected '', expecting function (T_FUNCTION) in Unknown on line 0
+[17-Feb-2015 02:32:40 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 21
+[17-Feb-2015 02:32:40 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 47
+[17-Feb-2015 02:32:40 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 59
+[17-Feb-2015 02:41:29 America/Detroit] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4294966175 bytes) in /home/cantorix/public_html/invoicing/lib/Cake/bootstrap.php on line 305
+[17-Feb-2015 02:41:45 America/Detroit] PHP Parse error:  syntax error, unexpected if (T_IF) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[17-Feb-2015 02:43:44 America/Detroit] PHP Parse error:  syntax error, unexpected '/**', expecting '&' or variable (T_VARIABLE) in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 24
+[17-Feb-2015 02:43:44 America/Detroit] PHP Parse error:  syntax error, unexpected ',' in Unknown on line 0
+[17-Feb-2015 02:45:33 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/App.php on line 163
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant TIME_START already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant CAKE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant APPLIBS already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant SECOND already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant MINUTE already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant HOUR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant DAY already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant WEEK already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant MONTH already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Notice:  Constant YEAR already defined in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:52:44 America/Detroit] PHP Fatal error:  Cannot redeclare class App in /home/cantorix/public_html/invoicing/lib/Cake/Core/Configure.php on line 0
+[17-Feb-2015 02:53:17 America/Detroit] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/cantorix/public_html/invoicing/app/webroot/index.php on line 82
+[17-Feb-2015 10:00:15 America/Detroit] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 29
+[18-Feb-2015 14:11:24 America/Detroit] PHP Warning:  mysql_connect(): Access denied for user 'cantorix_invoice'@'localhost' (using password: YES) in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 29
+[19-Feb-2015 05:25:37 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cantorix/public_html/invoicing/app/Controller/UsersController.php on line 269
+[19-Feb-2015 05:25:47 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cantorix/public_html/invoicing/app/Controller/UsersController.php on line 269
+[19-Feb-2015 05:25:58 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cantorix/public_html/invoicing/app/Controller/UsersController.php on line 269
+[19-Feb-2015 05:26:58 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cantorix/public_html/invoicing/app/Controller/UsersController.php on line 269
+[19-Feb-2015 05:32:19 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cantorix/public_html/invoicing/app/Controller/UsersController.php on line 269
+[19-Feb-2015 05:42:03 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cantorix/public_html/invoicing/app/Controller/UsersController.php on line 269
+[19-Feb-2015 05:42:10 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cantorix/public_html/invoicing/app/Controller/UsersController.php on line 269
+[19-Feb-2015 07:00:52 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/cantorix/public_html/invoicing/app/Controller/AppController.php on line 603
+[19-Feb-2015 07:00:59 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/cantorix/public_html/invoicing/app/Controller/AppController.php on line 603
+[19-Feb-2015 07:01:02 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/cantorix/public_html/invoicing/app/Controller/AppController.php on line 603
+[19-Feb-2015 07:02:08 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/cantorix/public_html/invoicing/app/Controller/AppController.php on line 603
+[19-Feb-2015 07:02:11 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/cantorix/public_html/invoicing/app/Controller/AppController.php on line 603
+[19-Feb-2015 07:02:15 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/cantorix/public_html/invoicing/app/Controller/AppController.php on line 603
+[19-Feb-2015 07:02:17 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/cantorix/public_html/invoicing/app/Controller/AppController.php on line 603
+[20-Feb-2015 00:08:33 America/Detroit] Invalid HTTP request method.
+[20-Feb-2015 01:37:33 America/Detroit] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 51
+[20-Feb-2015 01:47:32 America/Detroit] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 51
+[20-Feb-2015 01:59:44 America/Detroit] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 51
+[20-Feb-2015 02:00:03 America/Detroit] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 51
+[20-Feb-2015 02:00:31 America/Detroit] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 51
+[20-Feb-2015 02:01:12 America/Detroit] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 51
+[20-Feb-2015 02:02:33 America/Detroit] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 51
+[20-Feb-2015 02:05:13 America/Detroit] PHP Parse error:  syntax error, unexpected 'error_log' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/cantorix/public_html/invoicing/app/webroot/IPN_listener.php on line 51
+[12-Mar-2015 08:11:00 America/Detroit] PHP Parse error:  syntax error, unexpected '$link' (T_VARIABLE) in /home/cantorix/public_html/invoicing/app/Controller/AcrClientInvoicesController.php on line 1307
